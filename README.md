@@ -1,4 +1,5 @@
-![Image of Yaktocat]
+If you want to embed images, this is how you do it:
+
 (https://octodex.github.com/images/yaktocat.png)
 # Pass Manage
  This script save and manage the password of your accounts and also generate a password for you.
