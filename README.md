@@ -6,8 +6,8 @@
  * Python 3 or greater
 # Installation
 ```
- git clone https://github.com/msakrypton/pass-manage.git
- cd pass-manage
+ git clone https://github.com/msakrypton/passmanage.git
+ cd passmanage
  python passmanage.py
 ```
 # Use AccountsPass
