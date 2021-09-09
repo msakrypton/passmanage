@@ -61,9 +61,3 @@ def show(topic=None):
     return results
         
     conn.close()    
-
-
-# init()
-# add('iNstagram', 'mswqea', '1342d234')
-# add('Gmail', 'hacedd', '53454783')
-# print(show())
