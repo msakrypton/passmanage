@@ -10,3 +10,8 @@
  cd pass-manage
  python passmanage.py
 ```
+# Use AccountsPass
+ * First Enter `1` to Init a table on Database
+ * Then Enter `2` to Add account 
+ * And then by entering `3` you can see the password of your accounts!
+
