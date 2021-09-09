@@ -1,4 +1,4 @@
-![image](https://github.com/msakrypton/pass-manage/blob/main/image.png?raw=true)
+![image](https://github.com/msakrypton/pass-manage/blob/main/image.jpg?raw=true)
 # Pass Manage
  This script save and manage the password of your accounts and also generate a password for you.
 # Requirements
