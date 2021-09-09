@@ -1,0 +1,3 @@
+tabulate
+colorama
+sqlite3
