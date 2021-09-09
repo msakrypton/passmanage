@@ -6,9 +6,9 @@
  * Python 3 or greater
 # Installation
 ```
- git clone https://github.com/msakrypton/passmanage.git
- cd passmanage
- python passmanage.py
+git clone https://github.com/msakrypton/passmanage.git
+cd passmanage
+python passmanage.py
 ```
 # Use AccountsPass
  * First Enter `1` to Init a table on Database
