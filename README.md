@@ -8,5 +8,4 @@
  git clone https://github.com/msakrypton/pass-manage.git
  cd pass-manage
  python passmanage.py
- 
 ```
